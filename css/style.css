@@ -114,3 +114,6 @@ body {
   font-size: 18px;
   margin-bottom: 15px;
 }
+.list li:nth-child(even) {
+  text-transform: uppercase;
+}
